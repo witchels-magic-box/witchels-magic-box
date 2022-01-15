@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on front-end web design and development
-- 🌱 I’m currently learning Node.js
-- 🤔 I’m looking for help with web design and development
+- 🔭 I’m currently working on learning various skillsets in Software Quality Assurance
+- 🌱 I’m currently learning Automation Testing
+- 🤔 As a Person the individual is highly analytical and perfectionist! 
 - ⚡ Fun fact: ... Deep down inside lives a creative artist
 -->
